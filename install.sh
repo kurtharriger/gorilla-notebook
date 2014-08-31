@@ -3,6 +3,8 @@ set -e
 
 rm -rf binaries  
 
+(cd app; npm install)
+
 npm install
 grunt download-atom-shell
 mv  binaries/Atom.app binaries/Gorilla.app

@@ -1,6 +1,6 @@
 {
   "name": "gorilla-notebook",
-  "version": "0.0.1",
+  "version": "0.0.10",
   "description": "Gorilla Notebook",
   "main": "index.js",
   "scripts": {
@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/kurtharriger/gorilla-notebook",
   "dependencies": {
-    "gorilla-web": "0.0.4"
+    "gorilla-web": "0.0.10"
   }
 }
